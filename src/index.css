@@ -41,3 +41,10 @@
 #page1-in {
     perspective: 1000px;
 }
+#section2 {
+    position: relative;
+    perspective: 2000px;
+}
+.rotateText {
+    transform-origin: 100% 70%;
+}
