@@ -3,9 +3,11 @@ import React from 'react'
 
 const TiltText = () => {
     return (
-        <div>
-            <h1>
-                I AM DARK MODE™ DESIGNER TO HIRE</h1>
+        <div className='text-white mt-60'>
+            <h1 className='text-[4.3vw] leading-[4vw] font-[font5]'>
+                I AM <span className='text-black'>DARK MODE</span>™</h1>
+                <h1 className='text-[8vw] font-[font1] leading-[7vw]'>DESIGNER </h1>
+                <h1 className='text-[4.3vw] font-[font5] leading-[4vw]'>TO HIRE</h1>
         </div>
     )
 }
