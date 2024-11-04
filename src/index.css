@@ -31,3 +31,13 @@
     font-family: font6;
     src: url(./assets/file4.woff2);
 }
+
+#tiltdev {
+    /* background-color: red; */
+    width: fit-content;
+    /* transform: rotateY(0deg); */
+}
+
+#page1-in {
+    perspective: 1000px;
+}
